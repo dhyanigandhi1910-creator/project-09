@@ -46,5 +46,4 @@ The program is menu-driven and allows users to explore data, perform operations,
 
 Dhyani Gandhi
 
-Student Data Analysis Project
 
